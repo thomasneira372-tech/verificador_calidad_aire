@@ -1,0 +1,12 @@
+[
+  { "nombre": "Cartagena", "latitud": 10.39, "longitud": -75.51 },
+  { "nombre": "Bogotá", "latitud": 4.61, "longitud": -74.08 },
+  { "nombre": "Medellín", "latitud": 6.25, "longitud": -75.56 },
+  { "nombre": "Cali", "latitud": 3.45, "longitud": -76.53 },
+  { "nombre": "Barranquilla", "latitud": 10.96, "longitud": -74.80 },
+  { "nombre": "Bucaramanga", "latitud": 7.12, "longitud": -73.12 },
+  { "nombre": "Pereira", "latitud": 4.81, "longitud": -75.69 },
+  { "nombre": "Santa Marta", "latitud": 11.24, "longitud": -74.19 },
+  { "nombre": "Ibagué", "latitud": 4.44, "longitud": -75.24 },
+  { "nombre": "Cúcuta", "latitud": 7.89, "longitud": -72.50 }
+]
